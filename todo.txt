@@ -1,0 +1,28 @@
+- TODO List
+
+- Install and setup django 
+- Install and setup Vue
+- Include font awesome
+- Setup the base template
+- Create django app and models for products
+- Create serializer and views for the products
+- Create simple frontpage to list latest products
+- View a product
+    - Create viewset in django 
+    - Create vue page for showing product
+    - Add link to detail page
+- Set up Vuex/State
+- Make it Possible to add to cart
+    - Add functionality to vuex
+    - Initialize store in app.vue
+    - Add button to product page
+    - Show a toast message
+- Make Signup Possible 
+- Make Login Possible 
+- Create a simple my account page
+- Implement a loading bar
+- Set document title (all pages)
+- Make it possible to view a category 
+    - Convert the product to a component
+- Add Search Functionality
+- View Cart
